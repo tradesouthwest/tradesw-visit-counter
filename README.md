@@ -19,8 +19,7 @@ Adds Admin column to edit page of posts to show number of visits to post.
 Use https://github.com/tradesouthwest/tradesw-visit-counter/issues to post your issues with this plugin.
 
 ## Change Log
-- 1.0
-* initial release
+See file CHANGELOG.md
 
 ## Implementation Details
 
