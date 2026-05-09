@@ -2,7 +2,7 @@
 
 # Tradesw Visit Counter
 
-[![License: GPL 3.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 - Requires PHP: 7.4
 - Requires CP:  1.4
