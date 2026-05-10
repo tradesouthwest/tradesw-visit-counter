@@ -3,6 +3,7 @@
 # Tradesw Visit Counter
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![ClassicPress Directory Coding Standard checks.](https://github.com/tradesouthwest/tradesw-visit-counter/actions/workflows/cpcs.yaml/badge.svg)](https://github.com/tradesouthwest/tradesw-visit-counter/actions/workflows/cpcs.yaml)
 
 - Requires PHP: 7.4
 - Requires CP:  1.4
