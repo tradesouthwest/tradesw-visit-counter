@@ -3,7 +3,7 @@
  * Plugin Name:       Tradesw Visit Counter
  * Plugin URI:        https://github.com/tradesouthwest/tradesw-visit-counter
  * Description:       Adds a column to posts admin page to show visit count.
- * Version:           1.0
+ * Version:           1.0.1
  * Requires at least: 4.9.15
  * Requires PHP:      7.4
  * Requires CP:       1.3

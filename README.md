@@ -7,7 +7,7 @@
 
 - Requires PHP: 7.4
 - Requires CP:  1.4
-- Version:      1.0
+- Version:      1.0.1
 - Author:       Tradesouthwest
 - Tags:         counter, posts, visits, translation-ready
 - License:      GPL 3 (see LICENSE)
